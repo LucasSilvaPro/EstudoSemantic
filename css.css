@@ -1,0 +1,10 @@
+body, .pusher.dimmed, .pusher{
+	background-color: #1b1c1d !important;
+	color: white;
+}
+fieldset{
+	border-radius: 20px;
+}
+.fon{
+	font-size: medium !important;
+}
